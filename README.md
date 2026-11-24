@@ -65,6 +65,7 @@ Each one will live here on GitHub with its SQL, a README explaining the question
 ## 🤝 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-meetbawa-181717?style=for-the-badge&logo=github)](https://github.com/meetbawa)
+[![Kaggle](https://img.shields.io/badge/Kaggle-jagmeetlal-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jagmeetlal)
 
 - 💬 Ask me about: SQL queries, Power BI dashboards, Excel cleaning, and getting started in data analytics
 - 📍 Open to: Junior Data Analyst, Database Analyst, Reporting Analyst, and BI Analyst roles in Toronto and Ottawa
