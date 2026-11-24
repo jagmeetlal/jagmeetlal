@@ -66,6 +66,7 @@ Each one will live here on GitHub with its SQL, a README explaining the question
 
 [![GitHub](https://img.shields.io/badge/GitHub-jagmeetlal-181717?style=for-the-badge&logo=github)](https://github.com/jagmeetlal)
 [![Kaggle](https://img.shields.io/badge/Kaggle-jagmeetlal-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jagmeetlal)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-jagmeetlal--4860-00A4EF?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/en-in/users/jagmeetlal-4860/)
 
 - 💬 Ask me about: SQL queries, Power BI dashboards, Excel cleaning, and getting started in data analytics
 - 📍 Open to: Junior Data Analyst, Database Analyst, Reporting Analyst, and BI Analyst roles in Toronto and Ottawa
