@@ -23,10 +23,8 @@
 
 ## 🙋 About Me
 
-- 🎓 MBA graduate with a background in software engineering and ServiceNow
+- 🎓 MBA graduate with a background in software engineering
 - 📍 Based in Toronto, Ontario, Canada
-- 🎯 Building toward **Database Analyst / Data Analyst roles (NOC 21223)** and **Business Systems Specialist roles (NOC 21221)**
-- 📚 Currently on a focused 90-day data analyst plan: SQL first, then Power BI, then light Python for data cleaning
 - 💡 I like turning messy, real-world data into clear reports and dashboards that help people make decisions
 - 🌱 Right now I'm learning: **SQL, PostgreSQL, Power BI, Excel (Power Query & PivotTables), and Python (pandas)**
 
@@ -39,13 +37,13 @@
 | Databases & SQL | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge) |
 | BI & Spreadsheets | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge) |
 | Programming | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge) |
-| Tools & Workflow | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge) ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge) |
+| Tools & Workflow | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge) |
 
 ---
 
 ## 📂 Projects I'm Building
 
-These are the portfolio projects from my 90-day plan. Each one will live here on GitHub with its SQL, a README explaining the question and findings, and a dashboard link.
+Each one will live here on GitHub with its SQL, a README explaining the question and findings, and a dashboard link.
 
 | Project | What it answers | Tools |
 | --- | --- | --- |
