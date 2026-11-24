@@ -3,8 +3,8 @@
 <h3 align="center">Data Analyst in the making | SQL · Power BI · Excel | MBA | Toronto, Canada 🇨🇦</h3>
 
 <p align="center">
-  <a href="https://github.com/meetbawa">
-    <img src="https://komarev.com/ghpvc/?username=meetbawa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/jagmeetlal">
+    <img src="https://komarev.com/ghpvc/?username=jagmeetlal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
 </p>
 
@@ -13,8 +13,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetbawa&show_icons=true&theme=tokyonight&hide_border=false" alt="Jagmeet's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetbawa&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagmeetlal&show_icons=true&theme=tokyonight&hide_border=false" alt="Jagmeet's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagmeetlal&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="165" />
 </p>
 
 > These cards update automatically as I commit code and build projects — no manual editing needed.
@@ -64,7 +64,7 @@ Each one will live here on GitHub with its SQL, a README explaining the question
 
 ## 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-meetbawa-181717?style=for-the-badge&logo=github)](https://github.com/meetbawa)
+[![GitHub](https://img.shields.io/badge/GitHub-jagmeetlal-181717?style=for-the-badge&logo=github)](https://github.com/jagmeetlal)
 [![Kaggle](https://img.shields.io/badge/Kaggle-jagmeetlal-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jagmeetlal)
 
 - 💬 Ask me about: SQL queries, Power BI dashboards, Excel cleaning, and getting started in data analytics
